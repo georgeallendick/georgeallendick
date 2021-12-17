@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @georgeallendick
+- 👀 Currently interested in front end developer roles
+- 🌱 I've completed Mimo's Web Developer Course encompassing HTML, CSS, Java, and React
+- 🌱 Some of my Mimo courswork can be found here: https://github.com/georgeallendick-coding-school-projects
+- 🌱 I’m currently learning Python
+- 📫 I can be reached through georgeallendickjr@gmail.com

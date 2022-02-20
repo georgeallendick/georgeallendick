@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @georgeallendick
 - 👀 Currently interested in front-end developer roles
-- 👀 An interactive, digital version of my resume is located here: https://georgeallendick.github.io/Digital-Resume/
+- 👀 An interactive, digital version of my resume built with React is located here: https://github.com/georgeallendick/React-Resume
+- 👀 A previous version of that resume was built using Javascript here: https://github.com/georgeallendick-javascript-projects/Digital-Resume
 - 🌱 I've completed Mimo's Web Developer Course encompassing HTML, CSS, Java, and React
 - 🌱 Some of my Mimo courswork can be found here: https://github.com/georgeallendick-coding-school-projects
 - 🌱 In the process of building Javascript projects here: https://github.com/georgeallendick-javascript-projects
